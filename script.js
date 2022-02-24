@@ -118,4 +118,5 @@ const checkOtherExchange = async (pair, values, nextLoop, rejectLoop) => {
   
 };
 
+
 init()
